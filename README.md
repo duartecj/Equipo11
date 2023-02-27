@@ -1,2 +1,2 @@
 # Equipo11
-Repositorio Equipo11 BEDU
+Este espacio está destinado para colocar los proyectos del Equipo11 BEDU
