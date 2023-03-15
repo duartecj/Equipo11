@@ -1,6 +1,6 @@
 Espacio para el desarrollo del Postwork de la Sesión 5
 
-Se mplementa una línea de comandos que pide el nombre y número de teléfono de una persona.
+Se implementa una línea de comandos que pide el nombre y número de teléfono de una persona.
 
 
 El programa permite:
